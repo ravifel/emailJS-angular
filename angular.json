@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ProjetoEmail"
+  "defaultProject": "ProjetoEmail",
+  "cli": {
+    "analytics": false
+  }
 }
